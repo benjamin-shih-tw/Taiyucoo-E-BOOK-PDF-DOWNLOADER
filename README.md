@@ -40,8 +40,8 @@
 ### 1️⃣ 複製專案
 
 ```bash
-git clone https://github.com/benjamin-shih-tw/-PDF-.git
-cd -PDF-
+git clone https://github.com/benjamin-shih-tw/Taiyucoo-E-BOOK-PDF-DOWNLOADER
+cd Taiyucoo-E-BOOK-PDF-DOWNLOADER
 ```
 
 ### 2️⃣ 安裝套件
